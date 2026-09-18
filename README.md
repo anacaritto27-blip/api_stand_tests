@@ -2,3 +2,6 @@
 
 - Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas.
 - Ejecuta todas las pruebas con el comando pytest.
+- ## Proyecto
+
+Este proyecto contiene pruebas automatizadas para la creación de usuarios mediante una API.
